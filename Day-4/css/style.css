@@ -1,0 +1,46 @@
+#title{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: rgba(22, 2, 83, 0.986);
+}
+
+#hours{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    top: 150px;
+    left: 500px;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#minutes{
+    color: black;
+    font-size: 100px;
+    background-color: white;
+    text-align: center;
+    left: 700px;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#seconds{
+    color: black;
+    font-size: 100px;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    left:900px;
+    top:-150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
