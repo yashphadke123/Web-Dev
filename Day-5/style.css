@@ -1,0 +1,51 @@
+@font-face {
+    font-family:"OpenSans";
+    src: url(font/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+h1{
+    font-family: "OpenSans";
+    text-align: center;
+    color: white;
+}
+
+body{
+    font-family: "OpenSans";
+    background-color: rgb(26, 4, 94);
+}
+
+#text{
+    position: relative;
+    color: black;
+    text-align: center  ;
+    background-color: white;
+    width: 500px;
+    height: 70px;
+    left: 500px;
+    top:200px;
+}
+
+#generate{
+    position: relative;
+    font-family: "OpenSans";
+    color: black;
+    background-color:white;
+    height:50px;
+    width:400px;
+    left:550px;
+    top :220px;
+    border-width:4px;
+    border-color: rgb(176, 216, 29);
+}
+
+#copy_button{
+    position: relative;
+    width:40px;
+    left: 650px;
+    top:150px;
+}
+
+#copy_img{
+    position: relative;
+    width: 25px;
+}
