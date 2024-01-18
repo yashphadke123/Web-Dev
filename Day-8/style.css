@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(3, 2, 76);
+}
+
+h1{
+    color: white;
+}
+
+#numcount{
+    position: relative;
+    left: 300px;
+    top:-60px
+}
+
+#saved{
+    position: relative;
+    left:900px;
+    
+}
+
+div{
+    color: black;
+}
+
+#measure{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    height:200px;
+    width:200px;
+    text-align: center;
+    top: 25px;
+    left:325px;
+    font-size: 50px;
+    border-radius: 20px;
+}
+
+#reset{
+    position: relative;
+    top: -250px;
+    left: 300px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#add{
+    position: relative;
+    left: 550px;
+    top: -150px;
+    height:35px;
+    width:35px;
+    font-size: 20px;
+    border-radius: 35px;
+    background-color: white;
+}
+
+#sub{
+    position: relative;
+    left: 510px;
+    top: -50px;
+    height:35px;
+    width:35px;
+    background-color: white;
+    border-radius:35px;
+    font-size: 20px; 
+}
+
+#save{
+    position: relative;
+    left: 200px;
+    top:50px;
+    height: 50px;
+    width:100px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#space{
+    position: relative;
+    background-color: white;
+    font-size: 30px;
+    left: 850px;
+    top:-300px;
+    height: 500px;
+    width: 500px;
+}
