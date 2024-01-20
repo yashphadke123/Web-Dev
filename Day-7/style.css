@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(14, 0, 93);
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+input{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin:3px;
+}
+
+#main{
+    position: relative;
+    background-color: white;
+    width: 500px;
+    height: auto;
+    outline: solid 5px black;
+    position: relative;
+    left:500px;
+    top:150px;
+    border-radius: 10px;
+}
+
+button{
+    height: 45px;
+    width: 150px;
+    border-radius: 15px;
+    border-width: 3px;
+    font-size: 20px;
+}
+
+#add{
+    position: relative;
+    left:500px;
+    top: 200px;
+    background-color: rgb(2, 249, 2);
+}
+
+#rm{
+    position: relative;
+    left:700px;
+    top:200px;
+    background-color: red;
+}
+
