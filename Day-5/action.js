@@ -1,7 +1,7 @@
-
-
-let password = "teri maa ka bhosada"
+let words = ["enemy","military","idea","plan","incompetant","party","demon","guilt","deadly","uniform","enormous","founder","bait",
+            "martyrs","raid",""
+            ]
 
 function generate(){
-    document.getElementById("text").innerHTML = password
+  
 }
