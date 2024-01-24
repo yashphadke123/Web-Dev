@@ -1,0 +1,79 @@
+
+body{
+    background-color: rgb(9, 0, 60);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    text-align: right;
+    font-size: 30px;
+}
+
+div{
+    position: relative;
+    width: 475px;
+    height: 100px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+button{
+    position: relative;
+    background-color: white;
+    color: black;
+    width:175px;
+    height:60px;
+    top:-50px;
+    left:200px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+#one{
+    top:-25px;
+}
+
+#two{
+    left:490px;
+    top:-135px
+}
+
+#three{
+    left:980px;
+    top:-245px;
+}
+
+#four{
+    top: -240px;
+}
+
+#five{
+    left: 490px;
+    top: -350px;
+}
+
+#six{
+    left: 980px;
+    top: -460px;
+}
+
+#seven{
+    top: -455px;
+}
+
+#eight{
+    left: 490px;
+    top: -565px;
+}
+
+#nine{
+    left: 980px;
+    top: -675px;
+}
