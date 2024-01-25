@@ -1,0 +1,30 @@
+#txt{
+    position: relative;
+    left: 565px;
+    width: 350px;
+    height: 250px;
+    border-radius:5px;
+}
+
+body{
+    background-color: rgb(1, 1, 46);
+}
+
+h1{
+    color: white;
+    text-align:center;
+    font-size: 60px;
+}
+
+div{
+    position: relative;
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 5px;
+    top:30px;
+    left: 587px;
+    border-radius: 5px;
+}
