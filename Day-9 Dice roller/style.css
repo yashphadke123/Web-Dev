@@ -1,0 +1,25 @@
+body{
+    background-color: #19172e;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+button{
+    background-color: white;
+    position: relative;
+    width:100px;
+    height: 30px;
+    top:100px;
+    left:700px;
+}
+
+#dice_im{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 490px;
+}
