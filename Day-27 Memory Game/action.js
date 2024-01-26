@@ -1,0 +1,1 @@
+function for_push(){}
