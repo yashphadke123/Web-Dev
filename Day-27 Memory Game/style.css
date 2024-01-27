@@ -18,10 +18,3 @@ th{
     border-radius: 10px;
 }
 
-th:hover{
-    background-image: "assets/apple.png";
-}
-
-#one{
-    background-image: "assets/apple.png";
-}
