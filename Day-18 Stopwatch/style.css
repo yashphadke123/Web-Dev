@@ -1,0 +1,36 @@
+*{
+    position: relative;
+}
+
+body{
+    background-color: #19172e;
+}
+
+div{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    top: 50%;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+#log{
+    height: 150px;
+    width: 50px;
+    left: 700px;
+    top: 10px;
+}
+
+button{
+    background-color: white;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+    left: 595px;
+    top:5px;
+}
