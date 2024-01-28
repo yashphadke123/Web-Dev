@@ -1,0 +1,47 @@
+body{
+    background-color:  #130c65;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+div{
+    left: 675px;
+    background-color: black;
+    position: relative;
+    width: 100px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+#red{
+    left:17.5px;
+    top:25px;
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    background-color:white;
+    margin: 10px;
+}
+
+#yel{
+    left:17.5px;
+    top:25px;
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    background-color: white;
+    margin: 10px;
+}
+
+#gre{
+    left:17.5px;
+    top:25px;
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    background-color: white;
+    margin: 10px;
+}
