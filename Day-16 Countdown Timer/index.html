@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <title>Countdown Timer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/Countdown Timer.png">
+    <script src="action.js"></script>
+</head>
+<body>
+    <h1>Countdown Timer</h1>
+    <input type="number" id="hrs" name="hrs" min="0" max="24">
+    <input type="number" id="min" name="min" min="0" max="59">
+    <input type="number" id="sec" name="sec" min="0" max="59">
+    <button id="start" onclick="start()">Start</button>
+    <button id="pause" onclick="pause()">Pause</button>
+    <div class="hrs">Hours</div>
+    <div class="min">Minutes</div>
+    <div class="sec">Seconds</div>
+</body>

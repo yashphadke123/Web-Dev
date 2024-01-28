@@ -1,0 +1,49 @@
+body{
+    background-color: #19172e;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+input{
+    background-color: white;
+    position: relative;
+    left: 545px;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
+button{
+    position: relative;
+    left: 285px;
+    top: 150px;
+    width: 75px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+div{
+    color: white;
+    position: relative;
+    font-size: 25px;
+    left:575px;
+    top: -100px;
+}
+
+.min{
+    top: -130px;
+    left: 700px
+}
+
+.sec{
+    top:-157px;
+    left: 825px;
+}
