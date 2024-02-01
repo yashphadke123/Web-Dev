@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+body{
+    background-color: #19172e;
+}
+
+div{
+    position: relative;
+    left: 670px;
+    top: 80px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 100px;
+    text-align: center;
+}
