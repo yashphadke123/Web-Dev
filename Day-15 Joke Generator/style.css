@@ -1,0 +1,29 @@
+body{
+    background-color: #19172e;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+div{
+    position: relative;
+    height: 100px;
+    width: 300px;
+    left: 600px;
+    top:30px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+button{
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 700px;
+    top:70px;
+    background-color: white;
+    border-radius: 3px;
+}
