@@ -1,0 +1,40 @@
+body{
+    background-color: #19172e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+th{
+    position: relative;
+    top:50px;
+    width: 55px;
+    height: 55px;
+    background-color: #877fdc48;
+    color: white;
+    font-size: 35px;
+}
+
+th:hover{
+    cursor: pointer;
+    background-color: rgb(47, 255, 61);
+}
+
+#body{
+    position: relative;
+    left:1.75px;
+    background-color: white;
+    width:300px;
+    height:50px;
+}
+
+#txt{
+    text-align: right;
+    font-size: 30px;
+}

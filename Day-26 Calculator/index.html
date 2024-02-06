@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+    <script src="action.js"></script>
+</head>
+<body>
+    <div id="main">
+        <h1>Calculator</h1>
+        <div id="body">
+            <div id="txt"></div>
+            <table>
+                <tr>
+                    <th id="c" onclick="c()">C</th>
+                    <th id="ce" onclick="ce()">CE</th>
+                    <th id="per" onclick="per()">%</th>
+                    <th id="div" onclick="">/</th>
+                    <th id="sin" onclick="sin()">sin</th>
+                </tr>
+                <tr>
+                    <th id="7" onclick="seven()">7</th>
+                    <th id="8" onclick="eight()">8</th>
+                    <th id="9" onclick="nine()">9</th>
+                    <th id="mul" onclick="mul()">*</th>
+                    <th id="cos" onclick="cos()">cos</th>
+                </tr>
+                <tr>
+                    <th id="4" onclick="four()">4</th>
+                    <th id="5" onclick="five()">5</th>
+                    <th id="6" onclick="six()">6</th>
+                    <th id="min" onclick="min()">-</th>
+                    <th id="tan" onclick="tan()">tan</th>
+                </tr>
+                <tr>
+                    <th id="1" onclick="one()">1</th>
+                    <th id="2" onclick="two()">2</th>
+                    <th id="3" onclick="three()">3</th>
+                    <th id="+" onclick="plus()">+</th>
+                    <th id="sqrt" onclick="sqrt()">sqrt</th>
+                </tr>
+                <tr>
+                    <th id="0" onclick="ten()">0</th>
+                    <th id="0.0" onclick="hun()">00</th>
+                    <th id="dot" onclick="dot()">.</th>
+                    <th id="pi" onclick="pi()">pi</th>
+                    <th id="equal" onclick="equal()">=</th>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
